@@ -7,5 +7,7 @@ Recognition and tracking of high-speed moving objects based on GW2A
 ### keywords 1   使用连通域实现目标检测
 ### keywords 2   高命中率的Cache内存子系统
 ### keywords 3   支持图像裁切、缩放硬件加速
-## examples
+However, there are shortcomings in these points！！！
+## examples  （For somewhat similar characters, more model training is required）
 ![image](https://user-images.githubusercontent.com/91866304/232353457-f8fdf687-20b5-4622-91e7-85f36e30bc71.png)
+
