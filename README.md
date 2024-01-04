@@ -11,5 +11,5 @@ However, there are shortcomings in these points！！！
 ## examples  （For somewhat similar characters, more model training is required）  
 
 # Pytorch (NVIDIA)
-![环境配置](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch)
+这是一个链接：[环境配置方法](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch "将前往一个NVIDIA开发网站")
 
