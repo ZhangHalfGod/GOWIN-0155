@@ -8,6 +8,8 @@ Recognition and tracking of high-speed moving objects based on GW2A
 ### keywords 2   高命中率的Cache内存子系统
 ### keywords 3   支持图像裁切、缩放硬件加速
 However, there are shortcomings in these points！！！
-## examples  （For somewhat similar characters, more model training is required）
+## examples  （For somewhat similar characters, more model training is required）  
 
+# Pytorch (NVIDIA)
+![环境配置](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch)
 
