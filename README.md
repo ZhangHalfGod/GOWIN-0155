@@ -12,4 +12,65 @@ However, there are shortcomings in these points！！！
 
 # Pytorch (NVIDIA)
 这是一个链接：[环境配置方法](https://catalog.ngc.nvidia.com/orgs/nvidia/containers/pytorch "将前往一个NVIDIA开发网站")
+## Firstly condition 
 
+>1、Docker容器
+
+>2、NVIDIA GPU驱动程序
+
+>3、NVIDIA 容器工具包
+
+
+# Docker容器（Desktop）  
+
+>1、手册
+
+## Docker Desktop  
+
+## Docker Extensions  
+
+## Docker Scout
+
+## Docker Engine  
+
+## Docker Build  
+
+## Docker Compose  
+
+## Docker Hub
+
+## Administration  
+
+## Security  
+
+## Billing  
+
+## Subscription  
+
+## Trusted content  
+
+## Release notes  
+
+## Get support
+
+## Product release lifecycle
+
+>2、指南
+
+
+
+
+
+
+
+# 安装
+## Mac  
+### 交互式 和 命令行
+
+
+
+
+
+## Windows
+
+## Linux 
